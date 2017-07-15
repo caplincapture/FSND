@@ -1,18 +1,18 @@
-#Project 1: Movie Trailer Website
+# Project 1: Movie Trailer Website
 
 by Gabriel Leupin
 
 Movie trailer website project, part of the Udacity Full Stack Web Developer Nanodegree.
 
-#What 
+# What 
 
 A Python program that produces the HTML for a movie website that displays a number of movies. Clicking on a movie poster plays its trailer on Youtube.
 
-#Required Libraries and Dependencies
+# Required Libraries and Dependencies
 
 Python 2.x is required to run this project. The Python executable should be in your default path, which the Python installer should have set.
 
-#Project contents
+# Project Contents
 
 This project consists of the following files:
 
@@ -29,3 +29,4 @@ Navigate to the project directory and type in the following command:
 
 python entertainment_center.py
 Your default browser should launch a new tab displaying the movie trailer website.
+
